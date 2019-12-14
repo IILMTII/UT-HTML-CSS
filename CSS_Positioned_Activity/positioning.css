@@ -1,0 +1,24 @@
+ #relative {
+    margin:0px;
+    margin-top: 0px;
+    padding: 0px;
+    margin-bottom: 0px;
+    color:black;
+    background: red;
+  }
+  #absolute {
+    margin:0px;
+    margin-top: 0px;
+    padding: 0px;
+    margin-bottom: 0px;
+    color:black;
+    background: brown;
+  }
+  #fixed {
+    color:black;
+    background: blue;
+    position:fixed;
+    top:0px;
+    left:0px;
+    height:50px;
+  }
